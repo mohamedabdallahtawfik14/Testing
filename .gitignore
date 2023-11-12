@@ -1,3 +1,5 @@
+# Repository-specific .gitignore
+ignore-in-all-branches.txt
 .cproject
 .project
 **/*.log
